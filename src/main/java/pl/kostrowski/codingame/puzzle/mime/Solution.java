@@ -1,3 +1,5 @@
+package pl.kostrowski.codingame.puzzle.mime;
+
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;

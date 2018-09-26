@@ -1,3 +1,5 @@
+package pl.kostrowski.codingame.puzzle.asciiart;
+
 import java.util.*;
 
 /**

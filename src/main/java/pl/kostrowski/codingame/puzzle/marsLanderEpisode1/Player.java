@@ -1,3 +1,5 @@
+package pl.kostrowski.codingame.puzzle.marsLanderEpisode1;
+
 import java.util.Scanner;
 
 /**

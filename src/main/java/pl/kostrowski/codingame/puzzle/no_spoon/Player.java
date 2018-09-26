@@ -1,3 +1,5 @@
+package pl.kostrowski.codingame.puzzle.no_spoon;
+
 import java.util.Scanner;
 
 /**

@@ -1,3 +1,5 @@
+package pl.kostrowski.codingame.puzzle.Norris;
+
 import java.util.Scanner;
 
 /**

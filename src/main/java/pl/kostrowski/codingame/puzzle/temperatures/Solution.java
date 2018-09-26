@@ -1,3 +1,5 @@
+package pl.kostrowski.codingame.puzzle.temperatures;
+
 import java.util.Scanner;
 
 /**
